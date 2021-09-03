@@ -1,2 +1,2 @@
 # Forced-Alignment
-Forced-Aligment：MFA and Kaldo
+Forced-Aligment：MFA and Kaldi
